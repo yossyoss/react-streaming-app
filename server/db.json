@@ -2,38 +2,15 @@
   "streams": [
     {
       "title": "test",
-      "description": "test2",
+      "description": "test1",
+      "userId": "105761385644645936538",
       "id": 1
     },
     {
-      "title": "I created this stream",
-      "description": "this was made by me",
+      "title": "cvcv",
+      "description": "vvvv",
       "userId": "105761385644645936538",
       "id": 2
-    },
-    {
-      "title": "werwew",
-      "description": "xcx",
-      "userId": "105761385644645936538",
-      "id": 3
-    },
-    {
-      "title": "werwew",
-      "description": "xcx",
-      "userId": "105761385644645936538",
-      "id": 4
-    },
-    {
-      "title": "werwew",
-      "description": "xcxf",
-      "userId": "105761385644645936538",
-      "id": 5
-    },
-    {
-      "title": "vfv",
-      "description": "fgf",
-      "userId": "105761385644645936538",
-      "id": 6
     }
   ]
 }
