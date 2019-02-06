@@ -2,14 +2,12 @@
   "streams": [
     {
       "title": "test",
-      "description": "test1",
-      "userId": "105761385644645936538",
+      "description": "test1cvc",
       "id": 1
     },
     {
       "title": "cvcv",
       "description": "vvvv",
-      "userId": "105761385644645936538",
       "id": 2
     }
   ]

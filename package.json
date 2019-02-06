@@ -19,7 +19,8 @@
     "url": "https://github.com/yossyoss/react-streaming-app/issues"
   },
   "homepage": "https://github.com/yossyoss/react-streaming-app#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "concurrently": "^4.1.0"
   }
 }
